@@ -6,7 +6,7 @@
       "precioPromedioDia": 150,
       "imagenes": [
         "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/paris1.jpg",
-        "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/paris2.jpg"
+        
       ]
     },
     {
@@ -15,7 +15,7 @@
       "precioPromedioDia": 120,
       "imagenes": [
         "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/Kyoto1.jpg",
-        "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/kyoto2.jpg"
+        
       ]
     },
     {
@@ -24,7 +24,7 @@
       "precioPromedioDia": 80,
       "imagenes": [
         "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/Cerru1.jpg",
-        "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/Cerru2.jpg"
+        
       ]
     },
     {
@@ -33,7 +33,7 @@
       "precioPromedioDia": 130,
       "imagenes": [
         "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/Santorini1.jpg",
-        "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/Santorini2.jpg"
+        
       ]
     }
   ],
