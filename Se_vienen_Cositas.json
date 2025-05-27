@@ -1,26 +1,23 @@
 [
   {
     "id": 1,
-    "nombre": "Jorge",
-    "apellido": "Guerrero",
-    "Telefono": "656 989 5478",
-    "Direccion": "Piña #6354",
-    "pfp": "https://raw.githubusercontent.com/Francisco-Luevano-1074/API/refs/heads/main/jorge.jpg"
+    "nombre": "París, Francia",
+    "descripcion": "La ciudad del amor, famosa por la Torre Eiffel, el Louvre y la gastronomía francesa.",
+    "precioPromedioDia": 150,
+    "pfp": "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/paris1.jpg"
   },
   {
    "id": 1,
-    "nombre": "Melaine",
-    "apellido": "Vega",
-    "Telefono": "656 090 6589",
-    "Direccion": "Riveras del Bravo #5721",
-    "pfp": "https://raw.githubusercontent.com/Francisco-Luevano-1074/API/refs/heads/main/melaine.jpg"
+   "nombre": "Kyoto, Japón",
+   "descripcion": "Capital cultural de Japón con templos ancestrales, jardines zen y tradiciones centenarias.",
+   "precioPromedioDia": 120,
+   "pfp": "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/Kyoto1.jpg"
   },
   {
     "id": 1,
-    "nombre": "Dorle",
-    "apellido": "Zuñiga",
-    "Telefono": "656 101 7690",
-    "Direccion": "Guadalupe Castillas #7529",
-    "pfp": "https://raw.githubusercontent.com/Francisco-Luevano-1074/API/refs/heads/main/dorle.jpg"
+    "nombre": "Machu Picchu, Perú",
+    "descripcion": "Antigua ciudadela inca en los Andes, maravilla del mundo y patrimonio de la humanidad.",
+    "precioPromedioDia": 80,
+    "pfp": "https://raw.githubusercontent.com/Luis-Molinar-1081/aeropuerto_imagenes_app_flutter/refs/heads/main/Cerru1.jpg"
   }
 ]
