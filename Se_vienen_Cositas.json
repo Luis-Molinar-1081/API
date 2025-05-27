@@ -1,0 +1,127 @@
+{
+  "destinos": [
+    {
+      "id": 1,
+      "nombre": "París, Francia",
+      "tipo": "Ciudad",
+      "descripcion": "La ciudad del amor, famosa por la Torre Eiffel, el Louvre y la gastronomía francesa.",
+      "clima": "Templado",
+      "mejorEpoca": "Abril-Junio y Septiembre-Octubre",
+      "atracciones": [
+        "Torre Eiffel",
+        "Museo del Louvre",
+        "Catedral de Notre-Dame",
+        "Arco del Triunfo"
+      ],
+      "precioPromedioDia": 150,
+      "moneda": "EUR",
+      "idioma": "Francés",
+      "requisitosVisa": "Schengen para estancias <90 días",
+      "peligros": "Carteristas en zonas turísticas",
+      "imagenes": [
+        "https://ejemplo.com/paris1.jpg",
+        "https://ejemplo.com/paris2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Kyoto, Japón",
+      "tipo": "Ciudad",
+      "descripcion": "Capital cultural de Japón con templos ancestrales, jardines zen y tradiciones centenarias.",
+      "clima": "Húmedo subtropical",
+      "mejorEpoca": "Marzo-Abril (floración cerezos) y Octubre-Noviembre",
+      "atracciones": [
+        "Templo Kinkaku-ji",
+        "Barrio Gion",
+        "Bambú de Arashiyama",
+        "Santuario Fushimi Inari"
+      ],
+      "precioPromedioDia": 120,
+      "moneda": "JPY",
+      "idioma": "Japonés",
+      "requisitosVisa": "Permiso turístico para 90 días",
+      "peligros": "Terremotos ocasionales",
+      "imagenes": [
+        "https://ejemplo.com/kyoto1.jpg",
+        "https://ejemplo.com/kyoto2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Machu Picchu, Perú",
+      "tipo": "Sitio Arqueológico",
+      "descripcion": "Antigua ciudadela inca en los Andes, maravilla del mundo y patrimonio de la humanidad.",
+      "clima": "Templado de montaña",
+      "mejorEpoca": "Mayo-Septiembre (temporada seca)",
+      "atracciones": [
+        "Ciudadela de Machu Picchu",
+        "Camino Inca",
+        "Montaña Huayna Picchu",
+        "Aguas Termales"
+      ],
+      "precioPromedioDia": 80,
+      "moneda": "PEN",
+      "idioma": "Español, Quechua",
+      "requisitosVisa": "No requiere para estancias <90 días",
+      "peligros": "Mal de altura",
+      "imagenes": [
+        "https://ejemplo.com/machu1.jpg",
+        "https://ejemplo.com/machu2.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Santorini, Grecia",
+      "tipo": "Isla",
+      "descripcion": "Isla volcánica con impresionantes puestas de sol, casas blancas y aguas cristalinas.",
+      "clima": "Mediterráneo",
+      "mejorEpoca": "Mayo-Octubre",
+      "atracciones": [
+        "Oia",
+        "Caldera volcánica",
+        "Playas de arena negra",
+        "Ruinas de Akrotiri"
+      ],
+      "precioPromedioDia": 130,
+      "moneda": "EUR",
+      "idioma": "Griego",
+      "requisitosVisa": "Schengen para estancias <90 días",
+      "peligros": "Escaleras empinadas en pueblos",
+      "imagenes": [
+        "https://ejemplo.com/santorini1.jpg",
+        "https://ejemplo.com/santorini2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Serengeti, Tanzania",
+      "tipo": "Parque Nacional",
+      "descripcion": "Uno de los ecosistemas más impresionantes de África, famoso por la migración de ñus.",
+      "clima": "Sabana tropical",
+      "mejorEpoca": "Junio-Octubre (para migración)",
+      "atracciones": [
+        "Safari fotográfico",
+        "Gran Migración",
+        "Balón aerostático",
+        "Big Five"
+      ],
+      "precioPromedioDia": 250,
+      "moneda": "TZS",
+      "idioma": "Swahili, Inglés",
+      "requisitosVisa": "Visa requerida",
+      "peligros": "Animales salvajes",
+      "imagenes": [
+        "https://ejemplo.com/serengeti1.jpg",
+        "https://ejemplo.com/serengeti2.jpg"
+      ]
+    }
+  ],
+  "total": 5,
+  "categorias": [
+    "Ciudad",
+    "Playa",
+    "Montaña",
+    "Aventura",
+    "Cultural"
+  ]
+}
